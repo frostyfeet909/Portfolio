@@ -1,8 +1,10 @@
 # Portfolio
 This is a small repo containing links to some of my completed projects and my cv.
 
-## CV
-My CV can be found at: ()
+## Connections
+- My CV can be found at: [link](https://github.com/frostyfeet909/Portfolio/blob/main/Algernon_Sampson_CV%20-%20github.docx)
+- My linkedin profile: [link](https://www.linkedin.com/in/algernon-sampson/)
+- My email address: algiesampson@gmail.com
 
 ## Projects
 This is a list of completed projects:
