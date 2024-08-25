@@ -27,3 +27,6 @@ A set of Python and bash programs to run large batches of fluid mechanic simulat
 
 - Tic Tac Toe With Minimax : https://github.com/frostyfeet909/Tic-Tac-Toe-with-minimax \
 A Python implementation of tic tac toe and a bot to solve it using minimax with alpha-beta pruning
+
+- Wodify Training : https://github.com/frostyfeet909/Wodify-Training \
+A scraping and modelling repo for attendance to excersize classes with sklearn/pandas
